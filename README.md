@@ -1,0 +1,2 @@
+# Diziler
+Diziler alıştırması yapıldı
