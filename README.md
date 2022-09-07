@@ -1,2 +1,2 @@
 # Diziler
-Diziler alıştırması yapıldı
+Bu bir [patika.dev](https://www.patika.dev/tr) projesidir.
